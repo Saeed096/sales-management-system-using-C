@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1701839934 source:e:\iti\c\projecttest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1701843534 source:d:\projecttest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
